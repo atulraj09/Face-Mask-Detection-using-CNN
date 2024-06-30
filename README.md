@@ -10,4 +10,4 @@ The dataset used for this project is the Face Mask Detection dataset from Kaggle
 ## Model Architecture
 The Convolutional Neural Network (CNN) used in this project has been designed to efficiently extract features from images and classify them into the respective categories (with_mask and without_mask).
 ## Results
-The model has achieved an accuracy of 91.% on the test set. Detailed training logs and model performance metrics can be found in the results/ directory.
+The model has achieved an accuracy of 91.59% on the test set. Detailed training logs and model performance metrics can be found in the results/ directory.
